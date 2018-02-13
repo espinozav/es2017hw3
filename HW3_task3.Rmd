@@ -1,5 +1,5 @@
 ---
-title: "HW3_task3"
+title: "HW3_task3 Github"
 author: "Vicky Espinoza"
 date: "February 12, 2018"
 output:
